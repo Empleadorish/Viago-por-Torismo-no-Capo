@@ -1,2 +1,2 @@
-# Viagos-por-Toristas-no-Capo
+# Viagos-à-Ventura-no-Capo
 Tours around Cape Town for Latino Tourists
