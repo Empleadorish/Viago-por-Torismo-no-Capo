@@ -1,27 +1,19 @@
-# Dependencies
-node_modules/
+# Node modules
+/node_modules
 
-# Production build
-dist/
+# Build output
+/dist
 
-# Local environment
-.env
-.env.local
-*.local
+# Environment variables
+/.env
+
+# Vite cache
+/.vite
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
-pnpm-debug.log*
-pnpm-error.log*
+yarn-error.log*
 
-# Editor folders
-.vscode/
-.idea/
-
-# System files
+# MacOS files
 .DS_Store
-Thumbs.db
-
-# Temp
-*.tmp
